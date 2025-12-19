@@ -1,0 +1,18 @@
+[DEBUG] 2025-12-18 11:45:17.077 [main] UserTests2 - Debugging.......
+[INFO ] 2025-12-18 11:45:17.091 [main] UserTests2 - ****** Creating User *********
+[INFO ] 2025-12-18 11:45:33.059 [main] UserTests2 - ****** User is created *********
+[INFO ] 2025-12-18 11:45:33.071 [main] UserTests2 - ****** reading  User info *********
+[INFO ] 2025-12-18 11:46:07.996 [main] UserTests2 - ******User info is displayed*********
+[INFO ] 2025-12-18 11:46:08.001 [main] UserTests2 - ****** updating  User info *********
+[INFO ] 2025-12-18 11:46:20.714 [main] UserTests2 - ****** updated  User info is completed *********
+[INFO ] 2025-12-18 11:46:20.717 [main] UserTests2 - ****** User info is deleting  *********
+[INFO ] 2025-12-18 11:46:22.114 [main] UserTests2 - ****** Deleted  User info *********
+[DEBUG] 2025-12-18 12:11:18.040 [main] UserTests2 - Debugging.......
+[INFO ] 2025-12-18 12:11:18.051 [main] UserTests2 - ****** Creating User *********
+[INFO ] 2025-12-18 12:11:21.007 [main] UserTests2 - ****** User is created *********
+[INFO ] 2025-12-18 12:11:21.018 [main] UserTests2 - ****** reading  User info *********
+[INFO ] 2025-12-18 12:11:22.277 [main] UserTests2 - ******User info is displayed*********
+[INFO ] 2025-12-18 12:11:22.279 [main] UserTests2 - ****** updating  User info *********
+[INFO ] 2025-12-18 12:11:25.511 [main] UserTests2 - ****** updated  User info is completed *********
+[INFO ] 2025-12-18 12:11:25.513 [main] UserTests2 - ****** User info is deleting  *********
+[INFO ] 2025-12-18 12:11:26.991 [main] UserTests2 - ****** Deleted  User info *********
